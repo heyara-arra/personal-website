@@ -1,1 +1,54 @@
+body {
+  background: linear-gradient(135deg, #ffb6d9, #ff69b4, #d94f8c);
+
+}
+h1 {
+   color: white;
+   font-size: 40px;
+   margin-bottom: 20px;
+}
+p { 
+   color: white;
+   font-size: 18px;
+   line-height: 1.6;
+   max-width: 700px;
+   margin: 10px auto;
+}
+h2 {
+   color: white; 
+   margin-top: 30px;
+}
+h3 {
+   color: #fff0f7;
+   font-size: 24px;
+   margin-bottom: 10px;
+}
+h1, h2, h3, p {
+    text-align: center;
+} 
+img {
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    display: block;
+    margin: 20px auto; 
+}
+body { 
+   background: linear-gradient(135deg,#ffb6d9,#ff69b4,#d94f8c);
+   padding: 20px;
+   font-family: Arial, sans-serif;
+}
+section { 
+  margin-bottom:40px;
+}
+
+
+
+
+
+
+
+
+
 
